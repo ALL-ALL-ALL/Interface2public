@@ -28,17 +28,17 @@ Interface statique prête à l'emploi. L'achat comprend :
 
 *Note : Des versions améliorées avec fonctionnalités interactives pourront être proposées ultérieurement. Les acheteurs de la version actuelle bénéficieront de tarifs préférentiels.*
 
-## Services de personnalisation de design
-Nous proposons des services de personnalisation pour adapter l'apparence de l'interface à votre identité visuelle :
-- Intégration de votre palette de couleurs corporate
-- Adaptation du design selon votre charte graphique
-- Remplacement de l'illustration par un visuel adapté à votre marque
-- Modification des styles de boutons et éléments d'interface
-- Personnalisation des polices de caractères
+## Services de personnalisation visuelle
+Nous proposons des adaptations esthétiques de cette interface statique pour qu'elle corresponde parfaitement à votre identité visuelle :
+- Ajustement des couleurs selon votre palette corporate
+- Intégration de vos propres éléments graphiques et illustrations
+- Personnalisation des styles de boutons et composants visuels
+- Adaptation des polices et de la typographie
+- Modification des proportions et de l'agencement visuel
 
-Ces modifications de design sont réalisées directement dans le code source, vous permettant de conserver une interface native et performante tout en reflétant l'identité unique de votre entreprise ou application.
+Toutes ces personnalisations sont réalisées dans le respect de la nature statique de l'interface, sans ajout de fonctionnalités dynamiques supplémentaires. Vous obtenez ainsi une interface sur mesure visuellement, tout en conservant la simplicité et la fiabilité d'une interface statique.
 
-Contactez-nous pour discuter de vos besoins spécifiques en matière de design.
+Contactez-nous à iosinterface@gmail.com pour discuter de vos besoins spécifiques en matière de design.
 
 
 ## Comment acheter
