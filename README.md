@@ -2,8 +2,10 @@
 
 Une interface de connexion moderne et conviviale pour applications iOS, développée avec SwiftUI. Cette interface met en avant les connexions sociales avec une approche visuelle et engageante, idéale pour les applications orientées vers un public jeune et dynamique.
 
-IMAGE MODE CLAIRE 
-IMAGE MODE SOMBRE A METTRE 
+<img width="264" alt="SCR-20250312-tivl" src="https://github.com/user-attachments/assets/5fd9f329-cf05-4ff5-a5d6-46426a5cebc3" />
+<img width="262" alt="SCR-20250312-tjaq" src="https://github.com/user-attachments/assets/14afde86-4b67-407b-8b02-792e9949d34b" />
+
+
 
 ## Caractéristiques
 ✅ **Design engageant avec illustration** - Accueil chaleureux et visuel pour les utilisateurs  
