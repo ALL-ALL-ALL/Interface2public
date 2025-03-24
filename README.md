@@ -16,7 +16,7 @@ Une interface de connexion moderne et conviviale pour applications iOS, dévelop
 
 ## Éléments inclus
 - Illustration centrale personnalisable
-- Boutons de connexion via réseaux sociaux (Google, Facebook, Apple)
+- Boutons de connexion via réseaux sociaux (Linkedin, Facebook, Discord)
 - Bouton de connexion par email
 - Lien vers l'écran d'inscription
 - Options de personnalisation des couleurs et textes
@@ -52,21 +52,16 @@ Achetez cette interface directement en [(URL à venir)]* ou contactez-moi pour t
 ## Extrait de code
 Voici un aperçu du style de code utilisé (version limitée) :
 ```swift
-// Bouton de connexion sociale
-Button(action: {}) {
-    HStack {
-        ZStack {
-            Circle()
-                .fill(Color.blue)
-                .frame(width: 30, height: 30)
-            
-            Text("G")
-                .font(.system(size: 18, weight: .bold))
-                .foregroundColor(.white)
-        }
-        .padding(.leading, 8)
-        
-        Spacer()
+VStack(spacing: 30) {
+                            
+                            ZStack {
+                                Image("Logo")
+                                    .resizable()
+                                    .scaledToFit()
+                                    .frame(width: 130, height: 130)
+                                    .clipShape(.circle)
+                            }// fin zstack
+                            .padding(.top, 60)
 ```
 
 ## Licence
