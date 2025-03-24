@@ -2,8 +2,8 @@
 
 Une interface de connexion moderne et conviviale pour applications iOS, développée avec SwiftUI. Cette interface met en avant les connexions sociales avec une approche visuelle et engageante, idéale pour les applications orientées vers un public jeune et dynamique.
 
-<img width="264" alt="SCR-20250312-tivl" src="https://github.com/user-attachments/assets/5fd9f329-cf05-4ff5-a5d6-46426a5cebc3" />
-<img width="262" alt="SCR-20250312-tjaq" src="https://github.com/user-attachments/assets/14afde86-4b67-407b-8b02-792e9949d34b" />
+<img width="274" alt="SCR-20250324-bzcf" src="https://github.com/user-attachments/assets/44bfd91d-8aa0-4cb5-9d50-f4cb29a9f13c" />
+<img width="270" alt="SCR-20250324-bzex" src="https://github.com/user-attachments/assets/ad79d26e-3a52-4600-8cee-0e9f82f5ceb7" />
 
 
 
