@@ -6,6 +6,8 @@ Une interface de connexion moderne et conviviale pour applications iOS, dévelop
 <img width="270" alt="SCR-20250324-bzex" src="https://github.com/user-attachments/assets/ad79d26e-3a52-4600-8cee-0e9f82f5ceb7" />
 
 
+**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
+
 
 ## Caractéristiques
 ✅ **Design engageant avec illustration** - Accueil chaleureux et visuel pour les utilisateurs  
