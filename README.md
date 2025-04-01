@@ -1,4 +1,4 @@
-# Interface de Connexion iOS avec Illustration
+# 🎨 Interface de Connexion iOS avec Identité Visuelle
 
 Une interface de connexion moderne et conviviale pour applications iOS, développée avec SwiftUI. Cette interface met en avant les connexions sociales avec une approche visuelle et engageante, idéale pour les applications orientées vers un public jeune et dynamique.
 
